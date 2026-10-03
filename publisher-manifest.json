@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "8b0251bace26eb23e570993f",
+  "owner": "bjaxeu",
+  "repo": "page-965cb7f0bb99303161592a39",
+  "title": "EXV2",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "965cb7f0bb99303161592a39",
+      "a": "EXV2",
+      "b": "",
+      "entity": "EXV2",
+      "brand": "EXV2",
+      "separator": "",
+      "path": "index.html",
+      "hash": "93f961966e957c4ce60d91e465efda7058eb5d8df5b27fbb7d9ee09fd0ad2796",
+      "content": {
+        "keyword1": "EXV2",
+        "keyword2": "",
+        "primary_entity": "EXV2",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "EXV2提供稳定高速的网络加速服务，支持机场订阅与多端客户端下载，覆盖流媒体解锁、游戏加速与跨境访问。访问官网了解套餐与配置说明。",
+          "AI_DESCRIPTION": "EXV2提供稳定高速的网络加速服务，支持机场订阅与多端客户端下载，覆盖流媒体解锁、游戏加速与跨境访问。访问官网了解套餐与配置说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:system-ui,-apple-system,\"Segoe UI\",Roboto,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#f3f4f6;color:#111827;font-size:16px;line-height:1.65}*{box-sizing:border-box}a{color:#6d28d9;text-decoration:none}header{background:#5b21b6;color:#fff;padding:20px 16px}header .wrap,main,footer .wrap{max-width:1100px;margin:0 auto}header .brand{font-size:1.35rem;font-weight:700;letter-spacing:.04em}nav{margin-top:10px}nav a{color:#ede9fe;margin-right:14px;font-size:.95rem}main{padding:24px 16px 48px}h1{font-size:1.8rem;color:#5b21b6;margin:0 0 12px}h2{font-size:1.35rem;color:#4c1d95;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.08rem;color:#6d28d9;margin:16px 0 8px}p,li{color:#4b5563}.lead{color:#111827;font-size:1.05rem}.grid{display:grid;grid-template-columns:1fr;gap:16px}@media(min-width:768px){.grid-2{grid-template-columns:1fr 1fr}.plans{grid-template-columns:repeat(3,1fr)}} .card{background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:18px}.plan.featured{border:2px solid #6d28d9}.badge{display:inline-block;background:#6d28d9;color:#fff;font-size:.75rem;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.45rem;font-weight:700;color:#6d28d9;margin:0}.annual{font-size:.9rem;margin:4px 0 10px}.feat{padding-left:18px;margin:8px 0 0}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;margin:0 0 10px;padding:2px 14px}summary{font-weight:600;color:#4c1d95;padding:10px 0}details p{margin:0 0 12px}ol{padding-left:20px}footer{background:#1f2937;color:#d1d5db;padding:28px 16px;font-size:.9rem}footer a{color:#c4b5fd;margin-right:12px}.ad{background:#374151;padding:12px;border-radius:6px;margin:12px 0;text-align:center}.muted{color:#9ca3af;font-size:.85rem}</style><header><div class=\"wrap\"><div class=\"brand\">EXV2</div><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">说明</a><a href=\"#faq\">FAQ</a></nav></div></header><main><h1>EXV2 高速网络加速服务</h1><p class=\"lead\" id=\"intro\">EXV2 是面向个人与团队的网络加速与机场订阅服务。本页介绍套餐差异、典型使用场景、多端客户端选择以及从获取订阅到完成连接的操作步骤，方便你在官网完成对照与下载指引。</p><h2>品牌简介</h2><p>EXV2 将线路、流量与客户端配置放在同一套说明里：普通中转适合日常访问，旗舰线路强调流媒体原生解锁与游戏向 IPLC 优化，团队档位则面向多设备与定制路由。我们不在页面堆砌空泛口号，而是把流量额度、同时在线设备数和支持范围写清楚，便于按实际用量选择。</p><p>服务定位是稳定的跨境加速，而不是一次性试用工具。订阅后可在主流 Clash / V2Ray 系客户端中导入链接，按地区与用途切换节点。客户端安装包请始终从对应项目或应用商店官方渠道获取，EXV2 官网只提供配置方法与套餐说明。</p><h2 id=\"scenes\">使用场景</h2><div class=\"grid grid-2\"><article class=\"card\"><h3>流媒体与内容访问</h3><p>基础版可覆盖常见站点的基础解锁；旗舰版强调全节点原生流媒体能力，减少因地区库不同导致的播放失败。适合连续观看、多设备轮流使用的家庭或个人。</p></article><article class=\"card\"><h3>游戏与实时应用</h3><p>旗舰版包含 IPLC 专线游戏加速优化，用于降低国际服对战中的延迟与抖动。团队版提供更高带宽与定制路由，适合工作室或多开环境。效果仍受本地宽带质量影响。</p></article><article class=\"card\"><h3>办公、协作与资料</h3><p>远程会议、代码仓库、学术数据库与云盘同步都属于常规加速场景。建议把常用域名放到客户端规则里，避免全局模式占用不必要流量。</p></article><article class=\"card\"><h3>多设备同时在线</h3><p>三档套餐分别支持 3 / 5 / 20 台设备。手机、电脑与盒子同时在线时，优先选择对应档位，避免因设备数超限导致部分终端掉线。</p></article></div><h2 id=\"plans\">套餐对照</h2><div class=\"grid plans\"><article class=\"card plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul class=\"feat\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card plan featured\"><div class=\"badge\">推荐</div><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul class=\"feat\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul class=\"feat\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>流量按月重置，年付仅改变结算周期与单价。选择时先估算视频码率、游戏更新与多设备并行占用，再决定是否升级到旗舰或团队档。</p><h2 id=\"clients\">客户端选择（重点）</h2><p>EXV2 使用通用订阅，不绑定单一软件。请按系统选择维护活跃的客户端，再导入官网用户中心提供的订阅地址。以下为常见组合，便于对照官方下载渠道。</p><div class=\"grid grid-2\"><article class=\"card\"><h3>Windows</h3><p>常用 Clash Verge、Clash Meta for Windows 或 v2rayN。安装后选择订阅 URL 更新节点，开启系统代理或 TUN。从 GitHub Releases 或项目文档标明的官网下载，核对校验和。</p></article><article class=\"card\"><h3>macOS</h3><p>常用 ClashX.Meta、Stash。在菜单栏更新订阅后按规则分流。优先使用开发者站点或 Mac App 分发说明中的正式包，避免第三方改包。</p></article><article class=\"card\"><h3>Android</h3><p>常用 Clash Meta for Android。导入订阅、开启 VPN 权限并允许自启动。请到项目发布页或正规应用市场获取，不要侧载来路不明的 APK。</p></article><article class=\"card\"><h3>iOS</h3><p>常用 Shadowrocket、Stash、Quantumult X。通过应用商店安装后添加订阅。iOS 对配置描述文件较敏感，只粘贴用户中心给出的链接。</p></article></div><p>Linux 与路由器可使用 Clash / sing-box 等核心，把同一订阅转为对应配置。EXV2 官网下载指引只覆盖配置方法，不托管安装文件，以降低篡改风险。</p><h2 id=\"guide\">操作说明</h2><ol><li>对照上方套餐确认流量、设备数与是否需要 IPLC 或定制路由，完成订阅后进入用户中心复制订阅链接。</li><li>按设备打开对应客户端的官方下载页面，安装最新稳定版，不要使用来源不明的“一键包”。</li><li>在客户端中新增订阅（URL 或二维码），执行一次更新，确认节点列表出现多个地区与线路类型。</li><li>先用规则模式访问需要加速的站点或游戏，观察延迟与流量消耗；全局模式仅在排查问题时短暂开启。</li><li>若播放失败或游戏丢包，切换至旗舰节点或 IPLC 组，并检查本地 DNS 与防火墙是否拦截虚拟网卡。</li><li>多设备共用同一账户时，在客户端备注设备名，避免同时在线数超过套餐上限。</li></ol><h2>线路与使用建议</h2><p>普通线路节点池适合网页、轻量视频与资料下载；原生流媒体解锁依赖旗舰节点的出口质量。游戏请固定 IPLC 组并关闭多余规则，减少探测开销。团队版可将办公网段与娱乐流量拆分，由客户经理协助调整路由策略。</p><p>任何加速服务都无法突破本地运营商故障或目标站点自身限制。若大面积超时，先更新订阅、更换端口或协议，再提交工单并附上客户端日志中的错误码。</p><h2 id=\"faq\">常见问题</h2><details><summary>EXV2 支持哪些客户端？如何从官网对接下载？</summary><p>支持 Clash 系、v2rayN、Shadowrocket、Stash、Quantumult X 等。客户端请从各项目官方发布页或应用商店下载，再在软件内粘贴 EXV2 订阅链接。本站不提供安装包镜像。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>轻度浏览与三设备以内选基础版。需要原生流媒体、五设备以及游戏向 IPLC 时选旗舰版。工作室、多开或需要专属带宽与定制路由时选团队版。年付只影响价格，不改变当月流量重置规则。</p></details><details><summary>如何导入机场订阅？更新后没有节点怎么办？</summary><p>复制用户中心的通用订阅或分客户端链接，在软件的订阅栏保存并更新。若列表为空，检查链接是否完整、系统时间是否准确，并确认套餐仍在有效期。必要时更换 HTTP/HTTPS 或转换格式后再试。</p></details><details><summary>流量如何计算？用尽后会怎样？</summary><p>上下行均计入当月额度，重置周期以套餐开通日为准。用尽后加速通道不可用，不会以“突然限速到几乎不可用”的方式继续计费。可等待重置或按需升级档位。</p></details><details><summary>旗舰版 IPLC 游戏加速具体指什么？</summary><p>指针对热门对战与国际服优化的专线节点，重点降低延迟与丢包，而不是无限带宽。请在客户端中选择带 IPLC 标识的组，并关闭占用上行的后台上传。实际体验与家庭宽带质量直接相关。</p></details><details><summary>是否提供退款、发票或试用？</summary><p>售后以订阅页公示条款为准。建议先用符合需求的最低档验证客户端兼容性与常用线路。团队版可联系客户经理确认发票与路由定制范围，个人档一般不单独开通试用节点。</p></details><details><summary>设备超限或流媒体仍提示地区限制怎么处理？</summary><p>先在用户中心查看在线会话并下线不用的终端。流媒体请切换至标明原生解锁的旗舰节点，清除应用缓存后重试，并避免与其他代理插件叠加以免规则冲突。</p></details><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><p>EXV2 官方网站 · 机场订阅与客户端配置说明</p><div class=\"ad\">广告位：企业定制路由与高带宽节点咨询（内容由合作方提供）</div><p>友情链接：<a href=\"#\">网络工具导航</a><a href=\"#\">流媒体分区说明</a><a href=\"#\">客户端版本对照</a><a href=\"#\">节点状态公告</a></p><p>页面地图：<a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">FAQ</a></p><p class=\"muted\">© EXV2 保留栏目名称与套餐说明的编辑权。客户端版权归各开源项目与开发者所有。</p></div></footer>",
+          "hash": "8c40ed9624aa49cfa4a8dad05a2c145a3d80de1f2d3d9d0387067959ebfb4e30",
+          "seo": {
+            "title": "EXV2官网 - 机场订阅、VPN梯子网络加速与客户端下载",
+            "keywords": "EXV2,EXV2机场,EXV2 VPN,梯子,网络加速,加速器,客户端下载,官网下载,Clash,订阅",
+            "description": "EXV2提供稳定高速的网络加速服务，支持机场订阅与多端客户端下载，覆盖流媒体解锁、游戏加速与跨境访问。访问官网了解套餐与配置说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qihbwlo.cn",
+    "host": "p-f8aee4a432.qihbwlo.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "qihbwlo.cn",
+      "url": "https://qihbwlo.cn/",
+      "label": "樱花",
+      "apex": "qihbwlo.cn",
+      "kind": null,
+      "identity": "yeqbrungek/page-8fce63a5de604e5a5445eae2"
+    },
+    {
+      "host": "cordcloudssr.com",
+      "url": "https://cordcloudssr.com/",
+      "label": "EXV2",
+      "apex": "cordcloudssr.com",
+      "kind": null,
+      "identity": "jwkhnv/page-46394810e46b77d72703526c"
+    },
+    {
+      "host": "kgnct.cn",
+      "url": "https://kgnct.cn/",
+      "label": "EXV2",
+      "apex": "kgnct.cn",
+      "kind": null,
+      "identity": "csewppcad/page-cd88e16894385ba478683f13"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e0e803d7eb0e83d302216772481172a04cf5862e0ae3f115b1a186060655485d",
+    "sitemap.xml": "d145dcf8dcc89a5d9a232e6ddced63af38cfbca670bef13e1176ba1b0c3ecf76",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "fe3d3935e92bf8134097485cd649477e9d767e67e4c6694ee1d0c519fb78f067",
+    "robots.txt": "b17dce6ed37dc2a5d69d0a82bac34cfe09de327beb6f576cdb29660693d8b95f",
+    "271217c2652d48ebb15e260957cb262f.txt": "53a0a86b275c49b414ee892dccaafb6bbe7acedba50ca2387791adc23cf103d9"
+  },
+  "revision": "4e0d4d5eea9e0579fc2a2a8baff0d33af349a975948fab9bb876057ca56bbedd"
+}
